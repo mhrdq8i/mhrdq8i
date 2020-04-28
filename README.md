@@ -1,1 +1,1 @@
-# pinfo
+# This site about me and my ***skills/experience*** and some other things.
