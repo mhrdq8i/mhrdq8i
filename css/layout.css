@@ -325,35 +325,50 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.linux {
+  	width: 75%;
+  	-moz-animation: linux 2s ease;
+  	-webkit-animation: linux 2s ease;
+}
+.tcp-ip {
+  	width: 50%;
+  	-moz-animation: tcp-ip 2s ease;
+  	-webkit-animation: tcp-ip 2s ease;
+}
+.docker {
+  	width: 70%;
+  	-moz-animation: docker 2s ease;
+  	-webkit-animation: docker 2s ease;
+}
+.c-cpp {
+   width: 60%;
+   -moz-animation: c-cpp 2s ease;
+   -webkit-animation: c-cpp 2s ease;
+}
+.viop {
+   width: 90%;
+   -moz-animation: viop 2s ease;
+   -webkit-animation: viop 2s ease;
+}
+.asterisk {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: asterisk 2s ease;
+  	-webkit-animation: asterisk 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.kamailio {
+   width: 50%;
+   -moz-animation: kamailio 2s ease;
+   -webkit-animation: kamailio 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.challenging {
+   width: 100%;
+   -moz-animation: challenging 2s ease;
+   -webkit-animation: challenging 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
-}
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.problem-solving {
+   width: 90%;
+   -moz-animation: problem-solving 2s ease;
+   -webkit-animation: problem-solving 2s ease;
 }
 
 @-moz-keyframes photoshop {
