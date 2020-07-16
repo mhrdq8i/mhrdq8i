@@ -326,37 +326,63 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .linux {
-  	width: 75%;
-  	-moz-animation: linux 2s ease;
-  	-webkit-animation: linux 2s ease;
+   width: 75%;
+   -moz-animation: linux 2s ease;
+   -webkit-animation: linux 2s ease;
+}
+.ShellScripting {
+   width: 75%;
+   -moz-animation: ShellScripting 2s ease;
+   -webkit-animation: ShellScripting 2s ease;
+}
+.git {
+   width: 75%;
+   -moz-animation: git 2s ease;
+   -webkit-animation: git 2s ease;
+}
+.docker {
+   width: 70%;
+   -moz-animation: docker 2s ease;
+   -webkit-animation: docker 2s ease;
+}
+
+.c-cpp {
+   width: 70%;
+   -moz-animation: c-cpp 2s ease;
+   -webkit-animation: c-cpp 2s ease;
+}
+.python {
+   width: 70%;
+   -moz-animation: python 2s ease;
+   -webkit-animation: python 2s ease;
+}
+.erlang {
+   width: 40%;
+   -moz-animation: erlang 2s ease;
+   -webkit-animation: erlang 2s ease;
 }
 .tcp-ip {
   	width: 50%;
   	-moz-animation: tcp-ip 2s ease;
   	-webkit-animation: tcp-ip 2s ease;
 }
-.docker {
-  	width: 70%;
-  	-moz-animation: docker 2s ease;
-  	-webkit-animation: docker 2s ease;
-}
-.c-cpp {
-   width: 60%;
-   -moz-animation: c-cpp 2s ease;
-   -webkit-animation: c-cpp 2s ease;
-}
 .viop {
-   width: 90%;
+   width: 70%;
    -moz-animation: viop 2s ease;
    -webkit-animation: viop 2s ease;
 }
 .asterisk {
-  	width: 60%;
-  	-moz-animation: asterisk 2s ease;
-  	-webkit-animation: asterisk 2s ease;
+   width: 60%;
+   -moz-animation: asterisk 2s ease;
+   -webkit-animation: asterisk 2s ease;
+}
+.freeswitch {
+   width: 50%;
+   -moz-animation: freeswitch 2s ease;
+   -webkit-animation: freeswitch 2s ease;
 }
 .kamailio {
-   width: 50%;
+   width: 65%;
    -moz-animation: kamailio 2s ease;
    -webkit-animation: kamailio 2s ease;
 }
