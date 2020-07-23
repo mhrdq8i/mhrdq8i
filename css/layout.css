@@ -345,7 +345,11 @@ ul#nav li.current a { color: #F06000; }
    -moz-animation: docker 2s ease;
    -webkit-animation: docker 2s ease;
 }
-
+.lb-ha {
+   width: 60%;
+   -moz-animation: lb-ha 2s ease;
+   -webkit-animation: lb-ha 2s ease;
+}
 .c-cpp {
    width: 70%;
    -moz-animation: c-cpp 2s ease;
