@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .linux {
-   width: 75%;
+   width: 80%;
    -moz-animation: linux 2s ease;
    -webkit-animation: linux 2s ease;
 }
@@ -336,7 +336,7 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: ShellScripting 2s ease;
 }
 .git {
-   width: 75%;
+   width: 70%;
    -moz-animation: git 2s ease;
    -webkit-animation: git 2s ease;
 }
@@ -351,9 +351,14 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: ansible 2s ease;
 }
 .docker {
-   width: 65%;
+   width: 75%;
    -moz-animation: docker 2s ease;
    -webkit-animation: docker 2s ease;
+}
+.k8s {
+   width: 90%;
+   -moz-animation: k8s 2s ease;
+   -webkit-animation: k8s 2s ease;
 }
 .lb-ha {
    width: 70%;
@@ -361,7 +366,7 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: lb-ha 2s ease;
 }
 .vrrp {
-   width: 70%;
+   width: 60%;
    -moz-animation: vrrp 2s ease;
    -webkit-animation: vrrp 2s ease;
 }
@@ -376,7 +381,7 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: python 2s ease;
 }
 .golang {
-   width: 40%;
+   width: 60%;
    -moz-animation: golang 2s ease;
    -webkit-animation: golang 2s ease;
 }
