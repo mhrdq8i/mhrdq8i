@@ -1,1 +1,2 @@
-# This site about me and my ***skills/experience*** and some other things.
+# Mehrdad's online resume.
+
