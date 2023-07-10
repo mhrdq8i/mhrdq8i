@@ -1,0 +1,3 @@
+● Analyzing, designing and developing RESTful API applications to serve subscribers.
+● Python, Flask, Neo4j, PostgreSQL, Kong. 
+● Developing Unit-test & Integration-test.

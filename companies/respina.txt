@@ -1,0 +1,14 @@
+● Working on VoIP & Cloud Telecommunication Technologies.
+● Communications Platform as a Service CPaaS.
+● Session Initiation Protocol.
+● Kamailio SIP-Server using signaling section.
+● Running Asterisk & Freeswitch soft-switch.
+● Maintenance of Respina SIP-Trunk.
+● Maintenance of Respina HostedPBX.
+● SIP & HTTP Load Balancing.
+● High-Availability over SIP & HTTP protocols via VRRP.
+● Dockerizing services using docker-dompose.
+● ARI(Asterisk RESTful Interface) development by Python & Django framework.
+● Asterisk Call-App-Manager Development over ARI using pure Python.
+● Automation of all building processes by Gitlab-CI (CI).
+● Automation of all deployment processes by Ansible (CD).
