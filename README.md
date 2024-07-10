@@ -3,7 +3,7 @@ cat >> stdout << EOF <br/>
 [mq.geekfa.net](https://mq.geekfa.net/) <br/>
 EOF
 
-```
+```bash
  _ __ ___   __ _
 | '_ ` _ \ / _` |
 | | | | | | (_| |
