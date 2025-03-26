@@ -1,6 +1,6 @@
 
 cat >> stdout << EOF <br/>
-[mq.geekfa.net](https://mq.geekfa.net/) <br/>
+[My Online Resume](https://mhrdq8i.github.io/mhrdq8i) <br/>
 EOF
 
 ```bash
