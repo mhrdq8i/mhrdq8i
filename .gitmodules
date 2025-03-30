@@ -1,0 +1,3 @@
+[submodule "typst"]
+	path = typst
+	url = git@github.com:mhrdq8i/cv-builder.git
